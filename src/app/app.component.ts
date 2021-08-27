@@ -8,5 +8,5 @@ import { Component } from "@angular/core";
   </div>`
 })
 export class AppComponent{
-  pageTitle: string = 'Acme Product Managmente'
+  pageTitle: string = 'Acme Product Managment'
 }
